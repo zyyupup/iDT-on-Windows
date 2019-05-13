@@ -8,4 +8,7 @@
 **使用说明**
 
 只需在VS上新建项目，然后配置opencv相关链接库，将.h和.cpp文件添加到项目里即可运行。
-![项目文件](C:\Users\dell\Desktop\U8{VP86$FDOZ1@H[E4R~{@P.png "1")
+
+**结果展示**
+
+![result](https://github.com/zyyupup/iDT/blob/master/result.png "result")
